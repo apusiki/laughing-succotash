@@ -1,5 +1,4 @@
-########################
 #######################
 
-print (" This is a simple python program")
+print ("I love Python")
 

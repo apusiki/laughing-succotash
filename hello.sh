@@ -1,3 +1,3 @@
 #!/bin/
 
-echo "Hello Friendss"
+echo "Hello Frieends"

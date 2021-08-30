@@ -1,3 +1,3 @@
-#!/bin/
+#!/bin/bash
 
 echo "Hello bol"

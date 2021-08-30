@@ -1,3 +1,3 @@
 #!/bin/
 
-echo "Hello Kok"
+echo "Hello bol"
